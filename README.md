@@ -102,7 +102,7 @@ Apex Manager is designed to be configurable both via environment variables and i
 
 For detailed instructions, please refer to:
 - [📖 Setup Guide](./SETUP_GUIDE.md) - Deep dive into installation and troubleshooting.
-- [Mm User Manual](./USER_MANUAL.md) - specific command usage and feature details.
+- [📖 User Manual](./USER_MANUAL.md) - specific command usage and feature details.
 
 ## 🤝 Contributing
 
